@@ -2,3 +2,9 @@
 
 #EXTINF:-1 tvg-logo="http://splex.live/assets/images/T-Sports1705109791.png" group-title="Sports", T-Sports
 http://stream.splex.live/stream/xEKWxie5Lf2XSISOKtX0rA/1710185649/t-sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://splex.live/assets/images/GAZI1705109875.png" group-title="Sports", GAZI TV
+http://stream.splex.live/stream/6qaA3qpIiu_gsh8pBZAwgg/1710186043/sports-ch-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://splex.live/assets/images/A-Sports1705332124.png" group-title="Sports", A-Sports
+http://stream.splex.live/stream/N5Li2MaLvjQQkh9Ikvbxyg/1710186116/A-Sports/index.m3u8
