@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7e7bdf1b-2167-43f2-a383-de44759471ea/f9024b73-8007-4c36-a419-421d470f18a3.png?width=400" group-title="News", Somoy TV
+https://live.bongobd.com/hls/Xoy-xClSd9NnpesZy0oo8Q/1710246408/live-somoy-news-tv.m3u8
 #EXTINF:-1 tvg-logo="http://splex.live/assets/images/T-Sports1705109791.png" group-title="Sports", T-Sports
 http://stream.splex.live/stream/xEKWxie5Lf2XSISOKtX0rA/1710185649/t-sports/index.m3u8
 
