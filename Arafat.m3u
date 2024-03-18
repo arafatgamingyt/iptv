@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="http://103.107.79.72/logo/BTVWORLD.png" group-title="BANGLA", BTV WORLD
-http://103.107.79.87:8080/1127/video.m3u8
+aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC8xMTI3L3ZpZGVvLm0zdTg=
 #EXTINF:2 tvg-logo="http://103.107.79.72/logo/GaziTV.png" group-title="BANGLA", Gazi TV
 http://103.107.79.87:8080/CH8106HD01/video.m3u8
 #EXTINF:3 tvg-logo="http://103.107.79.72/logo/MohonaTVHD.png" group-title="BANGLA", Mohona TV
