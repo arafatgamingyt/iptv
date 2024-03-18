@@ -2,17 +2,17 @@
 #EXTINF:1 tvg-logo="http://103.107.79.72/logo/BTVWORLD.png" group-title="BANGLA", BTV WORLD
 aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC8xMTI3L3ZpZGVvLm0zdTg=
 #EXTINF:2 tvg-logo="http://103.107.79.72/logo/GaziTV.png" group-title="BANGLA", Gazi TV
-http://103.107.79.87:8080/CH8106HD01/video.m3u8
+aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC9DSDgxMDZIRDAxL3ZpZGVvLm0zdTg=
 #EXTINF:3 tvg-logo="http://103.107.79.72/logo/MohonaTVHD.png" group-title="BANGLA", Mohona TV
-http://103.107.79.87:8080/1123/video.m3u8
+aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC8xMTIzL3ZpZGVvLm0zdTg=
 #EXTINF:4 tvg-logo="http://103.107.79.72/logo/NagorikTV.png" group-title="BANGLA", Nagorik TV
-http://103.107.79.87:8080/1113/video.m3u8
+aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC8xMTEzL3ZpZGVvLm0zdTg=
 #EXTINF:5 tvg-logo="http://103.107.79.72/logo/MYTV.png" group-title="BANGLA", MY TV
-http://103.107.79.87:8080/1132/video.m3u8
+aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC8xMTMyL3ZpZGVvLm0zdTg=
 #EXTINF:6 tvg-logo="http://103.107.79.72/logo/BijoyTV.png" group-title="BANGLA", Bijoy TV
-http://103.107.79.87:8080/1129/video.m3u8
+aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC8xMTI5L3ZpZGVvLm0zdTg=
 #EXTINF:7 tvg-logo="http://103.107.79.72/logo/AnandoTV.png" group-title="BANGLA", Ananda TV
-http://103.107.79.87:8080/1117/video.m3u8
+aHR0cDovLzEwMy4xMDcuNzkuODc6ODA4MC8xMTE3L3ZpZGVvLm0zdTg=
 #EXTINF:8 tvg-logo="http://103.107.79.72/logo/BoishakhiTV.png" group-title="BANGLA", Boishakhi TV
 http://103.107.79.87:8080/1118/video.m3u8
 #EXTINF:9 tvg-logo="http://103.107.79.72/logo/Channel9HD.png" group-title="BANGLA", Channel 9
